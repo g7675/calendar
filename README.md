@@ -6,3 +6,8 @@ A Python application that finds available meeting times for multiple people.
 
 ```bash
 python main.py
+
+
+----git practice:
+
+this change was made after cloning the repository
