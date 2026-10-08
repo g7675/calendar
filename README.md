@@ -12,4 +12,10 @@ python main.py
 
 this change was made after cloning the repository
 
+
 this change was made in branch-2
+
+this change was made in branch-3
+
+this changed in the conflict solving commit
+
