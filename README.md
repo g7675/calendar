@@ -10,10 +10,11 @@ python main.py
 
 ----git practice:
 
+this change was made after cloning the repository!!!
 this change was made after cloning the repositories
 
-<<<<<<< HEAD
 
+here i deleted something and now i write: pull request 2. conflicted
 
 this change was made in branch-2
 
