@@ -10,7 +10,7 @@ python main.py
 
 ----git practice:
 
-this change was made after cloning the repository
+this change was made after cloning the repositories
 
 <<<<<<< HEAD
 
