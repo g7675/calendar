@@ -12,6 +12,7 @@ python main.py
 
 this change was made after cloning the repository
 
+<<<<<<< HEAD
 
 
 this change was made in branch-2
@@ -23,3 +24,7 @@ this changed in the conflict solving commit
 this change was made in github
 
 this changed in a remote - local conflict
+
+this change was made in branch-1 // merged
+
+
