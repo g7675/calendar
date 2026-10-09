@@ -27,5 +27,7 @@ this change was made in github
 this changed in a remote - local conflict
 
 this change was made in branch-1 // merged
-where did you bring that strange sentence from???
 
+Great job!!! Kudos for the speed, organization, and determination in every situation... :) You're a star!!!
+
+where did you bring that strange sentence from???
