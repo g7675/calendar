@@ -31,3 +31,4 @@ this change was made in branch-1 // merged
 Great job!!! Kudos for the speed, organization, and determination in every situation... :) You're a star!!!
 
 where did you bring that strange sentence from???
+What is this lack of faith in my English and my language?!
